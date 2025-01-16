@@ -62,4 +62,5 @@ This project is divided into three parts based on the complexity of the analysis
 ## 💾 **How to Use This Repository**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pizza-sales-analysis.git
+   git clone https://github.com/Aishwarya-Raut/pizza-sales-analysis.git
+
