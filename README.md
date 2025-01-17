@@ -64,13 +64,6 @@ This project is divided into three parts based on the complexity of the analysis
 You can view the project on GitHub here:  
 https://github.com/Aishwarya-Raut/Pizza-Sales-Analysis-Project-SQL-
 
-To clone the repository, use one of the following commands:
 
-```bash
-# Clone using GitHub CLI
-gh repo clone Aishwarya-Raut/Pizza-Sales-Analysis-Project-SQL-
-
-# Clone using Git
-git clone https://github.com/Aishwarya-Raut/Pizza-Sales-Analysis-Project-SQL-.git
 
 
