@@ -64,6 +64,14 @@ This project is divided into three parts based on the complexity of the analysis
 You can view the project on GitHub here:  
 https://github.com/Aishwarya-Raut/Pizza-Sales-Analysis-Project-SQL-
 
+---
+
+## 🙌 Acknowledgments
+
+A special thanks to the amazing **WsCube Tech YouTube tutorial** that guided the development of this project. 🎥✨  
+
+---
+
 
 
 
